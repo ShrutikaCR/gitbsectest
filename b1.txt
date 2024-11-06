@@ -1,2 +1,3 @@
 learning git custom commit 
 message
+along eith git merge
