@@ -1,1 +1,2 @@
-learning git custom commit
+learning git custom commit 
+message
