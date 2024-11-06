@@ -1,0 +1,3 @@
+bangalore
+karnataka
+learning git merge with custom commit message
